@@ -20,10 +20,4 @@
   <a href="https://www.linkedin.com/in/maxsuelfernandob/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
  ## 📘 No momento estou estudando: <br/>
- -  ReactJS <br/>
- - React Native <br/>
  - Javascript <br/>
- - Node.js com criação/consumo de APIs <br/>
- - Aprimoramentos no HTML <br/>
- - Aprimoramentos no CSS <br/>
- - SASS <br/>
