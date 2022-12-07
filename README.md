@@ -19,3 +19,8 @@
 
  ## 📘 No momento estou estudando: <br/>
  - Javascript <br/>
+    . Destructuring Assignment <br/>
+    . Map, Filter e Reduce <br/>
+    . Spread Operator <br/>
+    
+  
