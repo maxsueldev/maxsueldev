@@ -21,6 +21,5 @@
  - Javascript <br/>
     . Destructuring Assignment <br/>
     . Map, Filter e Reduce <br/>
-    . Spread Operator <br/>
-    
-  
+    . Spread Operator <br/><br/>
+  - Scrum
