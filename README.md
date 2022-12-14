@@ -19,7 +19,7 @@
 
  ## 📘 No momento estou estudando: <br/>
  - Javascript <br/>
-    . Destructuring Assignment <br/>
+    <input type="checkbox"> Destructuring Assignment </input> <br/>
     . Map, Filter e Reduce <br/>
     . Spread Operator <br/><br/>
   - Scrum
