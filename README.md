@@ -19,7 +19,8 @@
 
  ## 📘 No momento estou estudando: <br/>
  - Javascript <br/>
-    <input type="checkbox"> Destructuring Assignment </input> <br/>
+     ☑️ Document Object Model - DOM <br><br/>
+     Destructuring Assignment <br/>
     . Map, Filter e Reduce <br/>
     . Spread Operator <br/><br/>
   - Scrum
