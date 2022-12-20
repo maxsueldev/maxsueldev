@@ -17,13 +17,13 @@
   <a href = "mailto:maxsuel.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
   <a href="https://www.linkedin.com/in/maxsuelfernandob/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
- ## 📘 No momento estou estudando: <br/>
- - Javascript <br/>
+ ## 📘 No momento estou estudando: <br>
+ - Javascript <br>
      🔳 Class (POO) <br>
      🔳 Document Object Model (DOM) <br>
      ☑️ Destructuring Assignment <br>
-     ☑️ Map, Filter e Reduce <br/>
-     ☑️ Spread Operator <br/><br/>
+     ☑️ Map, Filter e Reduce <br>
+     ☑️ Spread Operator <br><br>
 
 ## 📘 E estou lendo: <br/>
-     🔳 Eloquent JavaScript <br>
+  🔳 Eloquent JavaScript <br>
