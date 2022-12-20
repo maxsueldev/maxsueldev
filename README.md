@@ -19,10 +19,9 @@
 
  ## 📘 No momento estou estudando: <br/>
  - Javascript <br/>
-     🔳 Document Object Model - DOM <br>
+     🔳 Class (POO) <br>
+     🔳 Document Object Model (DOM) <br>
      ☑️ Destructuring Assignment <br>
      ☑️ Map, Filter e Reduce <br/>
      ☑️ Spread Operator <br/><br/>
     
-    
-  - Scrum
