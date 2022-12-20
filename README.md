@@ -24,4 +24,6 @@
      ☑️ Destructuring Assignment <br>
      ☑️ Map, Filter e Reduce <br/>
      ☑️ Spread Operator <br/><br/>
-    
+
+## 📘 E estou lendo: <br/>
+     🔳 Eloquent JavaScript <br>
