@@ -19,7 +19,7 @@
 
  ## 📘 No momento estou estudando: <br>
  - JavaScript <br>
-     🔳 Class (POO) <br>
+     🔳 Class com herança e encapsulamento - POO <br>
      🔳 Document Object Model (DOM) <br>
      ☑️ Destructuring Assignment <br>
      ☑️ Map, Filter e Reduce <br>
