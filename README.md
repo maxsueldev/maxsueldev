@@ -18,7 +18,7 @@
   <a href="https://www.linkedin.com/in/maxsuelfernandob/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
  ## 📘 No momento estou estudando: <br>
- - Javascript <br>
+ - JavaScript <br>
      🔳 Class (POO) <br>
      🔳 Document Object Model (DOM) <br>
      ☑️ Destructuring Assignment <br>
