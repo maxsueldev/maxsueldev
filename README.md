@@ -19,8 +19,8 @@
 
  ## 📘 No momento estou estudando: <br>
  - JavaScript <br>
-     🔳 Class com Herança e Encapsulamento - POO <br>
      🔳 Document Object Model (DOM) <br>
+     ☑️ Class com Herança e Encapsulamento - POO <br>
      ☑️ Destructuring Assignment <br>
      ☑️ Map, Filter e Reduce <br>
      ☑️ Spread Operator <br><br>
