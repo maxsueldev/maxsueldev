@@ -19,6 +19,7 @@
 
  ## 📘 No momento estou estudando: <br>
  - JavaScript <br>
+     🔳 Closure <br>
      🔳 Document Object Model (DOM) <br>
      ☑️ Class com Herança e Encapsulamento - POO <br>
      ☑️ Destructuring Assignment <br>
