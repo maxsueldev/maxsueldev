@@ -19,7 +19,7 @@
 
  ## 📘 No momento estou estudando: <br>
  - CSS
-     🔳 Mobile First com @media
+     🔳 Mobile First com @media <br>
      🔳 Flexbox
   
  - JavaScript <br>
