@@ -18,9 +18,13 @@
   <a href="https://www.linkedin.com/in/maxsuelfernandob/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
  ## 📘 No momento estou estudando: <br>
+ - CSS
+     🔳 Mobile First com @media
+     🔳 Flexbox
+  
  - JavaScript <br>
      🔳 Async / Await <br>
-     🔳 Promises (Resolve, Reject) <br>
+     ☑️ Promises (Resolve, Reject) <br>
      ☑️ Closure <br>
      ☑️ Document Object Model (DOM) <br>
      ☑️ Class com Herança e Encapsulamento - POO <br>
