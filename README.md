@@ -19,6 +19,7 @@
 
  ## 📘 No momento estou estudando: <br>
  - CSS <br>
+     🔳 Variáveis no CSS <br> 
      🔳 Mobile First com @media <br>
      🔳 Flexbox
   
