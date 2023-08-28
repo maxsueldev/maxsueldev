@@ -19,12 +19,12 @@
 
  ## 📘 No momento estou estudando: <br>
  - CSS <br>
-     🔳 Variáveis no CSS <br> 
-     🔳 Mobile First com @media <br>
-     🔳 Flexbox
+     🔳 Tailwind CSS
+     ☑️ Variáveis no CSS <br> 
+     ☑️ Mobile First com @media <br>
+     ☑️ Flexbox
   
  - JavaScript <br>
-     🔳 Async / Await <br>
      ☑️ Promises (Resolve, Reject) <br>
      ☑️ Closure <br>
      ☑️ Document Object Model (DOM) <br>
