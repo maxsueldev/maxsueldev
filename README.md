@@ -19,24 +19,4 @@
   <br/>
   
   <a href = "mailto:maxsuel.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/maxsuelfernandob/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://www.portfolio-maxsuel.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
- ## 📘 No momento estou estudando: <br>
- - CSS <br>
-     ☑️ Tailwind CSS <br>
-     ☑️ Variáveis no CSS <br> 
-     ☑️ Mobile First com @media <br>
-     ☑️ Flexbox
-  
- - JavaScript <br>
-     ☑️ Promises (Resolve, Reject) <br>
-     ☑️ Closure <br>
-     ☑️ Document Object Model (DOM) <br>
-     ☑️ Class com Herança e Encapsulamento - POO <br>
-     ☑️ Destructuring Assignment <br>
-     ☑️ Map, Filter e Reduce <br>
-     ☑️ Spread Operator <br><br>
-
-## 📘 E estou lendo: <br/>
-  🔳 Eloquent JavaScript <br>
+  <a href="https://www.linkedin.com/in/maxsuelfernandob/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
