@@ -2,7 +2,7 @@
 
 ### Desenvolvedor Front-End Júnior
 
-Sou desenvolvedor em transição para Front-End, com experiência prévia em desenvolvimento Web Back-End, suporte técnico, ensino de informática e empreendedorismo.
+Sou desenvolvedor Front-End, com experiência prévia em desenvolvimento Web Back-End, suporte técnico, ensino de informática e empreendedorismo.
 
 Atualmente, foco meus estudos e projetos no desenvolvimento de interfaces web com **React, TypeScript e Tailwind CSS**, buscando criar aplicações organizadas, responsivas e com boa experiência para o usuário.
 
