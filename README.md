@@ -1,22 +1,49 @@
-### Olá,
+# Olá! Eu sou o Maxsuel 👋
+
+### Desenvolvedor Front-End Júnior
+
+Sou desenvolvedor em transição para Front-End, com experiência prévia em desenvolvimento Web Back-End, suporte técnico, ensino de informática e empreendedorismo.
+
+Atualmente, foco meus estudos e projetos no desenvolvimento de interfaces web com **React, TypeScript e Tailwind CSS**, buscando criar aplicações organizadas, responsivas e com boa experiência para o usuário.
+
+## 🚀 Tecnologias e ferramentas
+
+<div align="left">
+  <img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" />
+  <img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" />
+  <img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" />
+  <img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" />
+  <img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" />
+  <img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" />
+  <img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" />
+</div>
+
+## 💻 Projetos em destaque
+
+### [UsersREST-API](https://github.com/maxsueldev/UsersREST-API)
+Aplicação de gerenciamento de usuários com autenticação e integração com uma API REST.
+
+**Tecnologias:** React, TypeScript, Context API, React Router DOM, Material UI e Tailwind CSS.
+
+[**Ver demonstração**](https://users-rest-api.vercel.app/)
+
+### [Backend-UsersREST-API](https://github.com/maxsueldev/Backend-UsersREST-API)
+Backend desenvolvido para a aplicação de gerenciamento de usuários, com Node.js, Express e MongoDB.
+
+### [Expenses Bank](https://github.com/maxsueldev)
+Aplicação de controle de despesas desenvolvida com React, TypeScript e Firebase.
+
+*Consulte meus repositórios para conhecer outros projetos.*
+
+## 📊 Linguagens mais utilizadas
 
 <div>
-  <a href="https://github.com/maxsueldev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxsueldev&layout=compact&langs_count=7&theme=dark"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxsueldev&layout=compact&langs_count=7&theme=dark" alt="Linguagens mais utilizadas nos repositórios" />
 </div>
-  
-<div style="display: inline_block"><br>
-  <img align="center" alt="maxsueldev-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="maxsueldev-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="maxsueldev-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="maxsueldev-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="maxsueldev-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-  <img align="center" alt="maxsueldev-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
-  <img align="center" alt="maxsueldev-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">  
-  <img align="center" alt="maxsueldev-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
-</div>
-  
-  <br/>
-  
-  <a href = "mailto:maxsuel.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/maxsuelfernandob/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+## 📫 Entre em contato
+
+- [LinkedIn](https://www.linkedin.com/in/maxsuelfernandob/)
+- [E-mail](mailto:maxsuel.dev@gmail.com)
+- [GitHub](https://github.com/maxsueldev)
+- [Portfólio](https://portfolio-maxsuel.vercel.app/)
