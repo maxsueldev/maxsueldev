@@ -20,26 +20,20 @@ Atualmente, foco meus estudos e projetos no desenvolvimento de interfaces web co
 
 ## 💻 Projetos em destaque
 
-### [UsersREST-API](https://github.com/maxsueldev/UsersREST-API)
+### [UsersREST-API](https://github.com/maxsueldev/UsersREST-API) - [**Ver demonstração**](https://users-rest-api.vercel.app/)
 Aplicação de gerenciamento de usuários com autenticação e integração com uma API REST.
 
 **Tecnologias:** React, TypeScript, Context API, React Router DOM, Material UI e Tailwind CSS.
 
-[**Ver demonstração**](https://users-rest-api.vercel.app/)
-
-### [Expenses Bank](https://github.com/maxsueldev/expenses-bank)
+### [Expenses Bank](https://github.com/maxsueldev/expenses-bank) - [**Ver demonstração**](https://expenses-bank-max.vercel.app/)
 Aplicação de controle de despesas desenvolvida com React, TypeScript e Firebase.
 
 **Tecnologias:** React, TypeScript, Firebase, Context API, CSS Modules, React Router DOM, React Icons.
 
-[**Ver demonstração**](https://expenses-bank-max.vercel.app/)
-
-### [WikiMovies](https://github.com/maxsueldev/WikiMovies)
+### [WikiMovies](https://github.com/maxsueldev/WikiMovies) - [**Ver demonstração**](https://wiki-movies-max.vercel.app/)
 Consumo de API externa, busca, paginação e organização de dados em uma interface.
 
 **Tecnologias:** React, TypeScript, Context API, React Router DOM, React Icons e CSS Modules.
-
-[**Ver demonstração**](https://wiki-movies-max.vercel.app/)
 
 *Consulte meus repositórios para conhecer outros projetos.*
 
